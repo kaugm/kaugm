@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @kaugm<br>👀 I’m interested in automating anything in the cloud<br>🌱 I’m currently learning GCP and Kubernetes<br>📫 Feel free to reach out to me on LinkedIn (link in profile)
+👋 Hi, I’m @kaugm<br>👀 I’m interested in automating anything in the cloud<br>🌱 I’m currently learning GCP and Kubernetes<br>📫 Feel free to reach out to me on LinkedIn
 
 
 ## 🌐 Socials:
