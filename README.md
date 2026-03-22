@@ -21,7 +21,7 @@ Welcome to my GitHub! I'm a Cloud Engineer from <img src="https://cdn-icons-png.
 [![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff)](#)
 
 ### Education
-Msc Global Strategic Management @ ESADE Barcelona, Spain<br>
+MSc Global Strategic Management @ ESADE Barcelona, Spain<br>
 M.S. Global Commerce @ UVA Charlottesville, NC<br>
 B.S. Business Administration & IT @ NCSU Raleigh, NC
 
