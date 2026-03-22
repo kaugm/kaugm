@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @kaugm<br>👀 I’m interested in automating anything in the cloud<br>🌱 I’m currently learning Kubernetes and pursuing the AWS Solutions Architect Professional certification<br>📫 Feel free to reach out to me on LinkedIn
+👋 Hi, I’m @kaugm<br>👀 I’m interested in serverless event-driven applications and automating anything in the cloud<br>🌱 I’m currently learning Kubernetes and pursuing the AWS Security Specialty certification<br>📫 Feel free to reach out to me on LinkedIn
 
 
 ## 🌐 Socials:
@@ -11,7 +11,7 @@
 ![AWS Solutions Architect Associate](https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)
 ![AWS Developer Associate](https://images.credly.com/size/220x220/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)
 ![Hashicorp Terraform Associate](https://images.credly.com/size/220x220/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png)<br/>
-
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="68021e3d-1d2d-428a-9e48-240e12e45389" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 ---
 [![](https://visitcount.itsvg.in/api?id=kaugm&icon=0&color=0)](https://visitcount.itsvg.in)
 
