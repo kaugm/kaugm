@@ -1,6 +1,9 @@
 # Hi I'm Karl 👋
 Welcome to my GitHub! I'm a Cloud Engineer from Raleigh, NC currently living in Quito, Ecuador<br>👀 I’m interested in serverless event-driven applications and automating anything in the cloud<br>🌱 I’m currently learning Kubernetes and pursuing the AWS Security Specialty certification<br>📫 Feel free to reach out to me on LinkedIn
 
+
+<img src="https://cdn-icons-png.flaticon.com/512/197/197588.png" width="13"/>
+
 ### Preferred Technologies
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
