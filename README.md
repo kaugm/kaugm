@@ -1,9 +1,8 @@
 # Hi I'm Karl 👋
 Welcome to my GitHub! I'm a Cloud Engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width="13"/> <b>Raleigh, NC</b> currently living in 
-<img src="https://cdn-icons-png.flaticon.com/512/197/197588.png" width="13"/> <b>Quito, Ecuador</b><br>👀 I’m interested designing event-driven serverless automations in the cloud<br>🏔️ Part-time mountaineer. Training to climb Aconcagua in January 2027 <br>📚 Currently studying for AWS Security Specialty Certification
+<img src="https://cdn-icons-png.flaticon.com/512/197/197588.png" width="13"/> <b>Quito, Ecuador</b><br>👀 I’m interested designing event-driven serverless automations in the cloud <br>📚 Currently studying for AWS Security Specialty Certification<br>🏔️ Part-time mountaineer. Training to climb Aconcagua in January 2027
 
 ### Technologies & Tools I've Worked With
-
 [![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
 [![AWS Lambda](https://custom-icon-badges.demolab.com/badge/AWS%20Lambda-%23FF9900.svg?logo=aws-lambda&logoColor=white)](#)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
@@ -21,7 +20,10 @@ Welcome to my GitHub! I'm a Cloud Engineer from <img src="https://cdn-icons-png.
 [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
 [![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff)](#)
 
-
+### Education
+Msc Global Strategic Management @ ESADE Barcelona, Spain
+M.S. Global Commerce @ UVA Charlottesville, NC
+B.S. Business Administration & IT @ NCSU Raleigh, NC
 
 **Please feel free to connect with me on** [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/kaugm/)
 
