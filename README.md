@@ -1,17 +1,6 @@
 # Hi I'm Karl 👋
-Welcome to my GitHub! I'm a Cloud Engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/323310.png" width="13"/> <b>Raleigh, NC</b> currently living in 
+Welcome to my GitHub! I'm a Cloud Engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width="13"/> <b>Raleigh, NC</b> currently living in 
 <img src="https://cdn-icons-png.flaticon.com/512/197/197588.png" width="13"/> <b>Quito, Ecuador</b><br>👀 I’m interested in serverless event-driven applications and automating anything in the cloud<br>🌱 I’m currently learning Kubernetes and pursuing the AWS Security Specialty certification<br>📫 Feel free to reach out to me on LinkedIn
-
-https://www.flaticon.com/free-icon/united-states_197484?term=america&page=1&position=1&origin=search&related_id=197484
----
-<img src="https://cdn-icons-png.flaticon.com/512/197/197588.png" width="13"/>
-<img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width="13"/>
-<img src="https://cdn-icons-png.flaticon.com/512/197/197588.png" width="13"/>
-<img src="https://cdn-icons-png.flaticon.com/512/197/197588.png" width="13"/>
-<img src="https://cdn-icons-png.flaticon.com/512/197/197588.png" width="13"/>
-<img src="https://cdn-icons-png.flaticon.com/512/197/197588.png" width="13"/>
-<img src="https://cdn-icons-png.flaticon.com/512/197/197588.png" width="13"/>
-
 
 ### Preferred Technologies
 <p>
