@@ -1,6 +1,6 @@
 # Hi I'm Karl 👋
 Welcome to my GitHub! I'm a Cloud Engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width="13"/> <b>Raleigh, NC</b> currently living in 
-<img src="https://cdn-icons-png.flaticon.com/512/197/197588.png" width="13"/> <b>Quito, Ecuador</b><br>👀 I’m interested designing event-driven serverless automations in the cloud<br>🏔️ In my spare time, I love to climb mountains <br>📫 Feel free to reach out to me on LinkedIn
+<img src="https://cdn-icons-png.flaticon.com/512/197/197588.png" width="13"/> <b>Quito, Ecuador</b><br>👀 I’m interested designing event-driven serverless automations in the cloud<br>🏔️ In my spare time, I love to climb mountains <br>📚 Currently studying for AWS Security Specialty Certification
 
 ### Technologies & Tools I've Worked With
 
@@ -23,14 +23,15 @@ Welcome to my GitHub! I'm a Cloud Engineer from <img src="https://cdn-icons-png.
 
 
 
-### Connect with me here → [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/kaugm/)
+**Please feel free to connect with me on** [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/kaugm/)
 
 
-# 🎖 Certifications:
-![AWS Solutions Architect Associate](https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)
-![AWS Developer Associate](https://images.credly.com/size/220x220/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)
-![Hashicorp Terraform Associate](https://images.credly.com/size/220x220/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png)<br/>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="68021e3d-1d2d-428a-9e48-240e12e45389" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+### 🎖 Certifications:
+[![AWS Solutions Architect Professional](https://images.credly.com/size/110x110/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png)](#)
+[![AWS Developer Associate](https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](#)
+[![Hashicorp Certified Terraform Associate](https://images.credly.com/size/110x110/images/0dc62494-dc94-469a-83af-e35309f27356/blob)](#)
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=kaugm&icon=0&color=0)](https://visitcount.itsvg.in)
 
