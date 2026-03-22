@@ -23,8 +23,7 @@ Welcome to my GitHub! I'm a Cloud Engineer from <img src="https://cdn-icons-png.
 
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaugm/) 
+### Connect with me here --> [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/kaugm/)
 
 
 # 🎖 Certifications:
