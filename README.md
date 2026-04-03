@@ -29,6 +29,7 @@ B.S. Business Administration & IT @ NCSU Raleigh, NC
 
 
 ### 🎖 Certifications:
+[![AWS Security Specialty](https://images.credly.com/size/110x110/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png)](#)
 [![AWS Solutions Architect Professional](https://images.credly.com/size/110x110/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png)](#)
 [![AWS Developer Associate](https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](#)
 [![Hashicorp Certified Terraform Associate](https://images.credly.com/size/110x110/images/0dc62494-dc94-469a-83af-e35309f27356/blob)](#)
