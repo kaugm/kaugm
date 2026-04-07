@@ -1,6 +1,6 @@
 # Hi I'm Karl 👋
 Welcome to my GitHub! I'm a Cloud Engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width="13"/> <b>Raleigh, NC</b> currently living in 
-<img src="https://cdn-icons-png.flaticon.com/512/197/197588.png" width="13"/> <b>Quito, Ecuador</b><br>👀 I’m interested designing event-driven serverless automations in the cloud <br>📚 Currently studying for AWS Security Specialty Certification<br>🏔️ Part-time mountaineer. Training to climb Aconcagua in January 2027
+<img src="https://cdn-icons-png.flaticon.com/512/197/197588.png" width="13"/> <b>Quito, Ecuador</b><br>👀 I’m interested designing event-driven serverless automations in the cloud <br>📚 Currently studying for Google Cloud Architect Certification<br>🏔️ Part-time mountaineer. Training to climb Aconcagua in January 2027
 
 ### Technologies & Tools I've Worked With
 [![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
